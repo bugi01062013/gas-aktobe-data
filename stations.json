@@ -1,0 +1,744 @@
+[
+ {
+  "id": "node/11042221347",
+  "name": "АГЗС",
+  "lat": 50.2424825,
+  "lon": 57.1680553,
+  "hasGas": false
+ },
+ {
+  "id": "node/11042230434",
+  "name": "Заправка",
+  "lat": 50.2254969,
+  "lon": 57.1825927,
+  "hasGas": false
+ },
+ {
+  "id": "node/11043368508",
+  "name": "Батыс Жер",
+  "lat": 50.3000797,
+  "lon": 57.198975,
+  "hasGas": false
+ },
+ {
+  "id": "node/11043464646",
+  "name": "AMG 19",
+  "lat": 50.2476174,
+  "lon": 57.1549527,
+  "hasGas": true
+ },
+ {
+  "id": "node/11043508814",
+  "name": "Лидер",
+  "lat": 50.2791528,
+  "lon": 57.065236,
+  "hasGas": false
+ },
+ {
+  "id": "node/11061215050",
+  "name": "Заправка",
+  "lat": 50.2253997,
+  "lon": 57.1421635,
+  "hasGas": false
+ },
+ {
+  "id": "node/1190628536",
+  "name": "Compass",
+  "lat": 50.2982132,
+  "lon": 57.1920852,
+  "hasGas": false
+ },
+ {
+  "id": "node/1203322306",
+  "name": "Helios",
+  "lat": 50.3030541,
+  "lon": 57.1676488,
+  "hasGas": false
+ },
+ {
+  "id": "node/12075073550",
+  "name": "Qazaq Oil",
+  "lat": 50.274553,
+  "lon": 57.121142,
+  "hasGas": false
+ },
+ {
+  "id": "node/12075073552",
+  "name": "Qazaq Oil",
+  "lat": 50.245566,
+  "lon": 57.157349,
+  "hasGas": false
+ },
+ {
+  "id": "node/1236083066",
+  "name": "LPG",
+  "lat": 50.3158049,
+  "lon": 57.1376315,
+  "hasGas": true
+ },
+ {
+  "id": "node/12378256065",
+  "name": "Etalon Gaz",
+  "lat": 50.3069741,
+  "lon": 57.211729,
+  "hasGas": true
+ },
+ {
+  "id": "node/1271740064",
+  "name": "Sinooil",
+  "lat": 50.3018543,
+  "lon": 57.169337,
+  "hasGas": false
+ },
+ {
+  "id": "node/1298730575",
+  "name": "Helios",
+  "lat": 50.3057085,
+  "lon": 57.2217789,
+  "hasGas": false
+ },
+ {
+  "id": "node/1328528449",
+  "name": "Sinooil",
+  "lat": 50.2986399,
+  "lon": 57.1874479,
+  "hasGas": false
+ },
+ {
+  "id": "node/13439395121",
+  "name": "Батыс жер",
+  "lat": 50.2776865,
+  "lon": 57.279157,
+  "hasGas": false
+ },
+ {
+  "id": "node/13446319499",
+  "name": "Nauryzbay",
+  "lat": 50.2481132,
+  "lon": 57.2451406,
+  "hasGas": false
+ },
+ {
+  "id": "node/13767126690",
+  "name": "QazaqGaz",
+  "lat": 50.2977897,
+  "lon": 57.1332613,
+  "hasGas": false
+ },
+ {
+  "id": "node/13985939849",
+  "name": "Halyk gas",
+  "lat": 50.2899442,
+  "lon": 57.2851709,
+  "hasGas": false
+ },
+ {
+  "id": "node/1490294562",
+  "name": "РГС",
+  "lat": 50.303352,
+  "lon": 57.1169604,
+  "hasGas": true
+ },
+ {
+  "id": "node/1498030938",
+  "name": "АГЗС",
+  "lat": 50.3052735,
+  "lon": 57.1313872,
+  "hasGas": true
+ },
+ {
+  "id": "node/1760596777",
+  "name": "Helios",
+  "lat": 50.3203855,
+  "lon": 57.1522186,
+  "hasGas": false
+ },
+ {
+  "id": "node/1768480131",
+  "name": "Qazaq Oil",
+  "lat": 50.2743049,
+  "lon": 57.1721202,
+  "hasGas": false
+ },
+ {
+  "id": "node/2061754867",
+  "name": "Гелиос",
+  "lat": 50.2867864,
+  "lon": 57.1547885,
+  "hasGas": false
+ },
+ {
+  "id": "node/2077281640",
+  "name": "АГЗС",
+  "lat": 50.3224259,
+  "lon": 57.1520986,
+  "hasGas": true
+ },
+ {
+  "id": "node/2132054689",
+  "name": "Sinooil",
+  "lat": 50.3140218,
+  "lon": 57.1621445,
+  "hasGas": false
+ },
+ {
+  "id": "node/2132134723",
+  "name": "Ростанефть",
+  "lat": 50.322328,
+  "lon": 57.1537521,
+  "hasGas": false
+ },
+ {
+  "id": "node/2133329601",
+  "name": "ГЗС",
+  "lat": 50.3031446,
+  "lon": 57.2040375,
+  "hasGas": true
+ },
+ {
+  "id": "node/2133329603",
+  "name": "Альтаир",
+  "lat": 50.3028654,
+  "lon": 57.203206,
+  "hasGas": false
+ },
+ {
+  "id": "node/2138465587",
+  "name": "Qazaq Oil",
+  "lat": 50.2940527,
+  "lon": 57.1402949,
+  "hasGas": false
+ },
+ {
+  "id": "node/2138465589",
+  "name": "АГЗС",
+  "lat": 50.2985584,
+  "lon": 57.1372251,
+  "hasGas": true
+ },
+ {
+  "id": "node/2142313760",
+  "name": "Qazaq Oil",
+  "lat": 50.2787284,
+  "lon": 57.1580892,
+  "hasGas": false
+ },
+ {
+  "id": "node/2162178132",
+  "name": "Helios",
+  "lat": 50.2883253,
+  "lon": 57.1312344,
+  "hasGas": false
+ },
+ {
+  "id": "node/2162194904",
+  "name": "АЗС Лидер",
+  "lat": 50.28713,
+  "lon": 57.0975875,
+  "hasGas": false
+ },
+ {
+  "id": "node/2162194909",
+  "name": "Qazaq Oil",
+  "lat": 50.2858858,
+  "lon": 57.1000063,
+  "hasGas": false
+ },
+ {
+  "id": "node/2571228394",
+  "name": "West Oil",
+  "lat": 50.2892863,
+  "lon": 57.2855042,
+  "hasGas": true
+ },
+ {
+  "id": "node/2571228435",
+  "name": "Qazaq Oil",
+  "lat": 50.3247863,
+  "lon": 57.268413,
+  "hasGas": false
+ },
+ {
+  "id": "node/2571256164",
+  "name": "АГЗС",
+  "lat": 50.2469728,
+  "lon": 57.2501419,
+  "hasGas": true
+ },
+ {
+  "id": "node/2571256219",
+  "name": "Гелиос",
+  "lat": 50.215034,
+  "lon": 57.2761425,
+  "hasGas": false
+ },
+ {
+  "id": "node/2571256279",
+  "name": "Qazaq Oil",
+  "lat": 50.2470113,
+  "lon": 57.2515118,
+  "hasGas": false
+ },
+ {
+  "id": "node/2571323530",
+  "name": "Sinooil",
+  "lat": 50.2585745,
+  "lon": 57.2549661,
+  "hasGas": false
+ },
+ {
+  "id": "node/2918753192",
+  "name": "Роснефть",
+  "lat": 50.2918508,
+  "lon": 57.1252969,
+  "hasGas": false
+ },
+ {
+  "id": "node/2930638717",
+  "name": "Sinooil",
+  "lat": 50.3061671,
+  "lon": 57.2236925,
+  "hasGas": false
+ },
+ {
+  "id": "node/3018427691",
+  "name": "Helios",
+  "lat": 50.2763209,
+  "lon": 57.2301926,
+  "hasGas": false
+ },
+ {
+  "id": "node/3039677324",
+  "name": "ТехПромГаз",
+  "lat": 50.2745862,
+  "lon": 57.1727439,
+  "hasGas": true
+ },
+ {
+  "id": "node/3133044402",
+  "name": "Sinooil",
+  "lat": 50.2906359,
+  "lon": 57.1973359,
+  "hasGas": false
+ },
+ {
+  "id": "node/3325670430",
+  "name": "Ростанефть",
+  "lat": 50.2070742,
+  "lon": 57.2794467,
+  "hasGas": false
+ },
+ {
+  "id": "node/3340186622",
+  "name": "Заправка",
+  "lat": 50.2386228,
+  "lon": 57.2516894,
+  "hasGas": false
+ },
+ {
+  "id": "node/3340202702",
+  "name": "Qazaq Oil",
+  "lat": 50.2856856,
+  "lon": 57.2476411,
+  "hasGas": false
+ },
+ {
+  "id": "node/3544199559",
+  "name": "Sinooil",
+  "lat": 50.3493663,
+  "lon": 57.1203465,
+  "hasGas": false
+ },
+ {
+  "id": "node/4052302540",
+  "name": "Qazaq Oil",
+  "lat": 50.2580335,
+  "lon": 57.2069465,
+  "hasGas": false
+ },
+ {
+  "id": "node/4096925067",
+  "name": "Qazaq Oil",
+  "lat": 50.2753837,
+  "lon": 57.2303838,
+  "hasGas": false
+ },
+ {
+  "id": "node/4096931482",
+  "name": "Заправка",
+  "lat": 50.2747302,
+  "lon": 57.23022,
+  "hasGas": false
+ },
+ {
+  "id": "node/4098827020",
+  "name": "АГЗС",
+  "lat": 50.2711675,
+  "lon": 57.2225942,
+  "hasGas": true
+ },
+ {
+  "id": "node/4104859895",
+  "name": "Заправка",
+  "lat": 50.3508746,
+  "lon": 57.116385,
+  "hasGas": false
+ },
+ {
+  "id": "node/4135215656",
+  "name": "Керемет",
+  "lat": 50.2854856,
+  "lon": 57.2448383,
+  "hasGas": true
+ },
+ {
+  "id": "node/4290676627",
+  "name": "Лидер",
+  "lat": 50.2985334,
+  "lon": 57.1818883,
+  "hasGas": false
+ },
+ {
+  "id": "node/4362349051",
+  "name": "АГЗС \"Константа\"",
+  "lat": 50.3033114,
+  "lon": 57.2063115,
+  "hasGas": true
+ },
+ {
+  "id": "node/4362362109",
+  "name": "АГЗС \"БАГС\"",
+  "lat": 50.3053043,
+  "lon": 57.2110162,
+  "hasGas": true
+ },
+ {
+  "id": "node/4362365998",
+  "name": "West-Oil",
+  "lat": 50.3011538,
+  "lon": 57.2010031,
+  "hasGas": false
+ },
+ {
+  "id": "node/4362390824",
+  "name": "АГЗС",
+  "lat": 50.2676014,
+  "lon": 57.1835387,
+  "hasGas": true
+ },
+ {
+  "id": "node/4362415710",
+  "name": "АГЗС",
+  "lat": 50.2902263,
+  "lon": 57.1292141,
+  "hasGas": true
+ },
+ {
+  "id": "node/4400665461",
+  "name": "АГЗС",
+  "lat": 50.3540945,
+  "lon": 57.1136668,
+  "hasGas": true
+ },
+ {
+  "id": "node/4436344989",
+  "name": "Qazaq Oil",
+  "lat": 50.2920416,
+  "lon": 57.1417935,
+  "hasGas": false
+ },
+ {
+  "id": "node/4486657594",
+  "name": "Заправка",
+  "lat": 50.3125249,
+  "lon": 57.2995805,
+  "hasGas": false
+ },
+ {
+  "id": "node/4514852290",
+  "name": "Заправка",
+  "lat": 50.2892795,
+  "lon": 57.1162611,
+  "hasGas": false
+ },
+ {
+  "id": "node/4514852292",
+  "name": "АГЗС \"Пропан\"",
+  "lat": 50.2904126,
+  "lon": 57.1222314,
+  "hasGas": true
+ },
+ {
+  "id": "node/4514853145",
+  "name": "АЗС \"БАГЗ\"",
+  "lat": 50.2914695,
+  "lon": 57.1280546,
+  "hasGas": false
+ },
+ {
+  "id": "node/4514855532",
+  "name": "Заправка",
+  "lat": 50.2798795,
+  "lon": 57.0630612,
+  "hasGas": false
+ },
+ {
+  "id": "node/4520095748",
+  "name": "Helios",
+  "lat": 50.2926773,
+  "lon": 57.2006884,
+  "hasGas": false
+ },
+ {
+  "id": "node/4603381371",
+  "name": "Sinooil",
+  "lat": 50.2595844,
+  "lon": 57.2019034,
+  "hasGas": false
+ },
+ {
+  "id": "node/4729397789",
+  "name": "Заправка",
+  "lat": 50.3062064,
+  "lon": 57.1005727,
+  "hasGas": false
+ },
+ {
+  "id": "node/4729968490",
+  "name": "Qazaq Oil",
+  "lat": 50.2959114,
+  "lon": 57.1878205,
+  "hasGas": false
+ },
+ {
+  "id": "node/4730571321",
+  "name": "Заправка",
+  "lat": 50.2858971,
+  "lon": 57.1451955,
+  "hasGas": true
+ },
+ {
+  "id": "node/5019865822",
+  "name": "АГЗС",
+  "lat": 50.2577939,
+  "lon": 57.2531381,
+  "hasGas": true
+ },
+ {
+  "id": "node/5019865827",
+  "name": "Лидер",
+  "lat": 50.2572195,
+  "lon": 57.2542752,
+  "hasGas": false
+ },
+ {
+  "id": "node/5307695802",
+  "name": "АГСЗ",
+  "lat": 50.270324,
+  "lon": 57.1933217,
+  "hasGas": false
+ },
+ {
+  "id": "node/5390390424",
+  "name": "АГЗС",
+  "lat": 50.2377368,
+  "lon": 57.1598951,
+  "hasGas": true
+ },
+ {
+  "id": "node/5436846154",
+  "name": "Eco Oil",
+  "lat": 50.2437795,
+  "lon": 57.2502557,
+  "hasGas": false
+ },
+ {
+  "id": "node/5877748590",
+  "name": "Qazaq Gaz",
+  "lat": 50.338683,
+  "lon": 57.2984609,
+  "hasGas": true
+ },
+ {
+  "id": "node/6538743951",
+  "name": "Заправка",
+  "lat": 50.3206477,
+  "lon": 57.259017,
+  "hasGas": true
+ },
+ {
+  "id": "node/6538743973",
+  "name": "Заправка",
+  "lat": 50.3221849,
+  "lon": 57.2620031,
+  "hasGas": false
+ },
+ {
+  "id": "node/8123169289",
+  "name": "Батыс Жер",
+  "lat": 50.2904335,
+  "lon": 57.2676935,
+  "hasGas": false
+ },
+ {
+  "id": "node/8123169294",
+  "name": "Adal Gas",
+  "lat": 50.2903701,
+  "lon": 57.2686376,
+  "hasGas": true
+ },
+ {
+  "id": "node/8272991509",
+  "name": "Sinooil",
+  "lat": 50.2899638,
+  "lon": 57.2839653,
+  "hasGas": true
+ },
+ {
+  "id": "node/8273004298",
+  "name": "АГЗС",
+  "lat": 50.2899382,
+  "lon": 57.2803235,
+  "hasGas": true
+ },
+ {
+  "id": "way/1431107118",
+  "name": "Samey",
+  "lat": 50.2919467,
+  "lon": 57.2572739,
+  "hasGas": false
+ },
+ {
+  "id": "way/203846327",
+  "name": "Sinooil",
+  "lat": 50.285944,
+  "lon": 57.1351975,
+  "hasGas": false
+ },
+ {
+  "id": "way/205418145",
+  "name": "Меркурий",
+  "lat": 50.2959311,
+  "lon": 57.1881616,
+  "hasGas": true
+ },
+ {
+  "id": "way/208670878",
+  "name": "Helios",
+  "lat": 50.2863751,
+  "lon": 57.1829449,
+  "hasGas": false
+ },
+ {
+  "id": "way/212700995",
+  "name": "Заправка",
+  "lat": 50.295319,
+  "lon": 57.1438682,
+  "hasGas": false
+ },
+ {
+  "id": "way/230429905",
+  "name": "Заправка",
+  "lat": 50.2743047,
+  "lon": 57.1721259,
+  "hasGas": false
+ },
+ {
+  "id": "way/231206627",
+  "name": "Compass",
+  "lat": 50.280568,
+  "lon": 57.2001184,
+  "hasGas": false
+ },
+ {
+  "id": "way/315500407",
+  "name": "Ростанефть",
+  "lat": 50.2897567,
+  "lon": 57.2705161,
+  "hasGas": false
+ },
+ {
+  "id": "way/316254243",
+  "name": "Заправка",
+  "lat": 50.25731,
+  "lon": 57.2510642,
+  "hasGas": false
+ },
+ {
+  "id": "way/317938233",
+  "name": "Sinooil",
+  "lat": 50.2910864,
+  "lon": 57.2559751,
+  "hasGas": false
+ },
+ {
+  "id": "way/318063359",
+  "name": "Qazaq Oil",
+  "lat": 50.2897402,
+  "lon": 57.2755091,
+  "hasGas": false
+ },
+ {
+  "id": "way/318947668",
+  "name": "Заправка",
+  "lat": 50.2916686,
+  "lon": 57.2366817,
+  "hasGas": false
+ },
+ {
+  "id": "way/318947671",
+  "name": "АГЗС",
+  "lat": 50.2918929,
+  "lon": 57.2348086,
+  "hasGas": true
+ },
+ {
+  "id": "way/328712540",
+  "name": "Гелиос",
+  "lat": 50.2897563,
+  "lon": 57.2771254,
+  "hasGas": false
+ },
+ {
+  "id": "way/455020036",
+  "name": "ГСЗ",
+  "lat": 50.289276,
+  "lon": 57.1162453,
+  "hasGas": true
+ },
+ {
+  "id": "way/460867918",
+  "name": "Compass",
+  "lat": 50.2860877,
+  "lon": 57.1449262,
+  "hasGas": true
+ },
+ {
+  "id": "way/513586069",
+  "name": "АГЗС",
+  "lat": 50.2559586,
+  "lon": 57.2518257,
+  "hasGas": true
+ },
+ {
+  "id": "way/596815694",
+  "name": "Compass",
+  "lat": 50.2852782,
+  "lon": 57.1821707,
+  "hasGas": true
+ },
+ {
+  "id": "way/596827018",
+  "name": "Compass",
+  "lat": 50.3168463,
+  "lon": 57.1406033,
+  "hasGas": true
+ },
+ {
+  "id": "way/830300442",
+  "name": "Заправка",
+  "lat": 50.2586912,
+  "lon": 57.2054832,
+  "hasGas": false
+ }
+]
