@@ -1,10 +1,12 @@
-// Обновляет stations.json: заправки Актобе из OpenStreetMap + заправки из manual.json
+// Обновляет stations.json: заправки всего Казахстана из OpenStreetMap + заправки из manual.json
 const fs = require('fs');
 
 const query =
-  '[out:json][timeout:90];(' +
-  'node["amenity"="fuel"](50.20,57.05,50.36,57.30);' +
-  'way["amenity"="fuel"](50.20,57.05,50.36,57.30);' +
+  '[out:json][timeout:180];' +
+  'area["ISO3166-1"="KZ"][admin_level=2]->.kz;' +
+  '(' +
+  'node["amenity"="fuel"](area.kz);' +
+  'way["amenity"="fuel"](area.kz);' +
   ');out center tags;';
 
 const servers = [
@@ -21,7 +23,7 @@ async function tryServer(url) {
       'User-Agent': 'gas-aktobe-sync/1.0 (GitHub Actions, weekly)'
     },
     body: 'data=' + encodeURIComponent(query),
-    signal: AbortSignal.timeout(120000)
+    signal: AbortSignal.timeout(240000)
   });
   if (!r.ok) throw new Error('HTTP ' + r.status);
   const text = await r.text();
@@ -81,6 +83,7 @@ function readJson(file, fallback) {
     process.exit(1);
   }
 
-  fs.writeFileSync('stations.json', JSON.stringify(list, null, 1) + '\n', 'utf8');
+  // по одной заправке на строку: файл компактный, а изменения в GitHub читаются легко
+  fs.writeFileSync('stations.json', '[\n' + list.map(s => JSON.stringify(s)).join(',\n') + '\n]\n', 'utf8');
   console.log(`Done: ${list.length} stations (OSM ${osm.length}, manual ${manual.length}), with gas: ${list.filter(s => s.hasGas).length}`);
 })();
